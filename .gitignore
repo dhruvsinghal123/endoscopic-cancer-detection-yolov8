@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# YOLOv8 training outputs
+runs/
+Train*/  # or any directory where results are saved
+*.pt
+*.onnx
+*.engine
+
+# Large data files
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Git
+*.lock
