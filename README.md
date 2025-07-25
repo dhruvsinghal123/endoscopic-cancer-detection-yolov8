@@ -80,7 +80,5 @@ yolo task=detect mode=train model=yolov8n.pt data=yolov8_config/data.yaml epochs
 
 📧 Contact
 Dhruv Singhal
-
 Email: dsinghal265@gmail.com
-
 LinkedIn: <your-link>
