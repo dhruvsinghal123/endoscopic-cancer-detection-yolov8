@@ -5,7 +5,8 @@ from PIL import Image
 from ultralytics import YOLO
 
 # Load YOLOv8 model
-model_path = r"C:\Users\hp\runs\detect\train2\weights\best.pt"
+model_path = "weights/best.pt"
+
 model = YOLO(model_path)
 
 # Streamlit Page Config
