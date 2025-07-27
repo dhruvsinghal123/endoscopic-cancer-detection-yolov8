@@ -1,0 +1,5 @@
+train: processed/images/train
+val: processed/images/val
+
+nc: 2  # number of classes
+names: ['benign', 'malignant']
