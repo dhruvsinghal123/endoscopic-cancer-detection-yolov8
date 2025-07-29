@@ -3,7 +3,7 @@
 Classifying endoscopic images into **benign** and **malignant** using **YOLOv8n**.
 
 ## 📌 Dataset
-- Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10590430/
+- Source:https://zenodo.org/records/6674034
 - Classes: `benign`, `malignant`
 
 ## 🧱 Project Structure
